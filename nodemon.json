@@ -1,0 +1,6 @@
+{
+
+    "verbose": true,
+    "ignore": [".git", "node_modules"],
+    "delay": 2000
+}
